@@ -2,7 +2,9 @@
 
 This repository provides R code implementing Correlation-intact Sandwich Mixture (CSM) for outlier-robust Bayesian multivariate analysis, as proposed by the following paper.
 
-Hamura, Y., Irie, K. and Sugasawa, S. (2025). Outlier-robust Bayesian multivariate analysis with correlation-intact sandwich mixture. (arXiv)
+Hamura, Y., Irie, K. and Sugasawa, S. (2025). Outlier-robust Bayesian multivariate analysis with correlation-intact sandwich mixture. ([arXiv:2508.18004
+
+](https://arxiv.org/abs/2508.18004))
 
 The repository includes the following 7 files.
 
